@@ -1,3 +1,6 @@
+Before running/launching the website make sure you have CORS Plugin installed. Also some node modules will be required, I deleted them to reduce the space occupied by the project. You can download the node modules by simply typing npm installl.
+
+Below are some notes which I made while building the website, you might find them useful:
 #Parcel
 - Dev Build
 - Local Server
